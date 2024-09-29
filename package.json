@@ -2,7 +2,7 @@
   "name": "nytimes",
   "version": "1.0.0",
   "scripts": {
-    "build": "parcel build --public-url https://FranciseGrace.github.io/dnytimes/ src/index.html && rm -rf docs && mv dist docs",
+    "build": "parcel build --public-url https://francisegab.github.io/dnytimes/ src/index.html && rm -rf docs && mv dist docs",
     "dev": "parcel serve home/choi/nytimes/dnytimes/src/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
