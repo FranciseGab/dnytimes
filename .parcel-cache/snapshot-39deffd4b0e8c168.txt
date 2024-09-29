@@ -1,0 +1,15 @@
+14
+58/home/izyne-gallardo/choi/nytimes/dnytimes/docs/index.html1727587115505825819 0
+55/home/izyne-gallardo/choi/nytimes/dnytimes/package.json1727587461145775372 0
+57/home/izyne-gallardo/choi/nytimes/dnytimes/src/index.html1727554883433300463 0
+46/home/izyne-gallardo/choi/nytimes/dnytimes/src1727554900823298880 1
+69/home/izyne-gallardo/choi/nytimes/dnytimes/docs/index.738f8129.js.map1727587115515825817 0
+56/home/izyne-gallardo/choi/nytimes/dnytimes/src/style.css1727554895393299399 0
+47/home/izyne-gallardo/choi/nytimes/dnytimes/docs1727587115515825817 1
+56/home/izyne-gallardo/choi/nytimes/dnytimes/src/script.js1727554909083297794 0
+60/home/izyne-gallardo/choi/nytimes/dnytimes/package-lock.json1727554829383304358 0
+42/home/izyne-gallardo/choi/nytimes/dnytimes1727587459155775642 1
+53/home/izyne-gallardo/choi/nytimes/dnytimes/.gitignore1727552914503476125 0
+66/home/izyne-gallardo/choi/nytimes/dnytimes/docs/index.80c76c29.css1727587115515825817 0
+65/home/izyne-gallardo/choi/nytimes/dnytimes/docs/index.738f8129.js1727587115515825817 0
+70/home/izyne-gallardo/choi/nytimes/dnytimes/docs/index.80c76c29.css.map1727587115515825817 0
